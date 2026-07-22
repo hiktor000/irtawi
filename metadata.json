@@ -1,0 +1,6 @@
+{
+  "name": "ارتوِ (Irtiwi) - تتبع شرب الماء والتذكير الذكي",
+  "description": "تطبيق متكامل وتفاعلي لتتبع شرب الماء والتذكير الذكي والإحصائيات والتذكير الصوتي",
+  "requestFramePermissions": ["notifications"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
